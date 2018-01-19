@@ -1,0 +1,35 @@
+shuru()
+{
+
+	int c shoman 0 ;
+	int g shoman 9 ;
+	int d shoman 12 ;
+	
+	d shoman c guun 10 plus g guun 11 plus 20 ;
+	
+	jodi (2>1)  c shoman c plus 12 guun 34 ;
+	
+	
+	
+	
+nirbachon ( g ) {
+	
+		khetro 10 :
+		  c shoman c plus 5 ;
+		khetro 6  :
+		  c shoman c plus 7 ; 	
+		khetro 9  :
+		 c shoman c plus 10 ;
+		thikvalue : 
+		  c shoman c plus 4 ;
+	}	
+	
+	int j shoman 10 ;
+	
+	ghurao (j>7)
+	{
+		
+		j shoman j minus 1 ;	
+			
+	}
+}
